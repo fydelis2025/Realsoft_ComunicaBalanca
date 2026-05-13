@@ -1,0 +1,10 @@
+c:\users\fusion\documents\visual studio 2013\Projects\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\bin\Debug\Realsoft_ComunicaBalanca.dll
+c:\users\fusion\documents\visual studio 2013\Projects\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\bin\Debug\Realsoft_ComunicaBalanca.pdb
+c:\users\fusion\documents\visual studio 2013\Projects\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.csprojResolveAssemblyReference.cache
+c:\users\fusion\documents\visual studio 2013\Projects\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.dll
+c:\users\fusion\documents\visual studio 2013\Projects\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.pdb
+D:\Projetos\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\bin\Debug\Realsoft_ComunicaBalanca.dll
+D:\Projetos\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\bin\Debug\Realsoft_ComunicaBalanca.pdb
+D:\Projetos\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.csprojResolveAssemblyReference.cache
+D:\Projetos\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.dll
+D:\Projetos\Realsoft_ComunicaBalanca\Realsoft_ComunicaBalanca\obj\Debug\Realsoft_ComunicaBalanca.pdb
